@@ -6,7 +6,7 @@ A Windows utility that reads hardware and system details through PowerShell and 
 
 Requires Windows PowerShell and Python 3.10+.
 
-1. Start the [Laptop Specs Server](../laptop-specs-server/README.md) on a trusted machine.
+1. Start the [Laptop Specs Server](../main/README.md) on a trusted machine.
 2. Create an environment and install dependencies:
 
    ```powershell
